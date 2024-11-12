@@ -8,7 +8,6 @@
 ENGLISH TRANSLATION
 An application with games and many secrets.
 Start it up ButterDeception.exe And start playing!
-> Discord: sergey0066
 ```
 
 - Вирусов нет, приложение сделано через VisualStudio.
