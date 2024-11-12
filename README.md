@@ -6,10 +6,9 @@
 Множество испытаний и разных приколов.
 ```
 ```Deprecated
-ENGLISH TRANSLATION
-An application with games and many secrets.
-Start it up ButterDeception.exe And start playing!
-A lot of tests and different jokes.
+ИНФОРМАЦИЯ
+Я не несу ответственность за последствия, скачивайте на своё усмотрение.
+Возможны сложности в закрытии приложения.
 ```
 
 - Вирусов нет, приложение сделано через VisualStudio.
